@@ -1,0 +1,18 @@
+
+
+2025-04-17 17:28:42 - New Request
+POST Data: Array
+(
+    [shipping_address] => sulgtdrvtfssdrrf
+    [total] => 152503
+    [items] => [{"id":1,"name":"Mini Tractor","price":149999,"quantity":1},{"id":2,"name":"Garden Tool Set","price":2499,"quantity":1}]
+)
+
+SESSION Data: Array
+(
+    [user_id] => 6
+    [user_name] => ram kumar
+    [user_email] => ramkumar9219442005@gmail.com
+)
+
+Success: Order created - ID: 24
